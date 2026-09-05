@@ -10,7 +10,7 @@ Me chamo Raphael Kenji, tenho 19 anos e moro em Presidente Prudente. Atualmente 
 
 ---
 
-<img align="right" alt="" height="250px" src="./scr/jack-frost-persona.gif">
+<img align="right" alt="" height="225px" src="./scr/jack-frost-persona.gif">
 
 ### Connect with me!
 
