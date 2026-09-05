@@ -33,8 +33,9 @@ Me chamo Raphael Kenji, tenho 19 anos e moro em Presidente Prudente. Atualmente 
 ### GitHub Stats
 
 <p>
-  <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=raphael-kenji&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
-  <img alt="Top Langs" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=raphael-kenji&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
+  <img src="https://github-readme-stats-two-omega-43.vercel.app/api?username=raphael-kenji&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" height="190" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=raphael-kenji&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" height="190" alt="Top Langs" />
 </p>
 
 <div align="center">
