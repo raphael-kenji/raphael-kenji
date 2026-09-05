@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=F1F1F1&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
 </div>
 
 ---
 
-Me chamo Raphael Kenji, tenho 19 anos e moro em Presidente Prudente. Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC.
+Me chamo Raphael Kenji, tenho 19 anos e moro em Presidente Prudente. Atualmente curso o 4º Módulo de Análise e Desenvolvimento de Sistemas na FATEC.
 
 ---
 
