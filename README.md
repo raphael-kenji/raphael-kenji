@@ -4,7 +4,7 @@
 
 ---
 
-Me chamo Raphael Kenji, tenho 19 anos e moro em Presidente Prudente. Atualmente curso o 4º Módulo de Análise e Desenvolvimento de Sistemas na FATEC.
+Me chamo Raphael Kenji, tenho 19 anos e moro em Presidente Prudente - SP. Atualmente curso o 4º Módulo de Análise e Desenvolvimento de Sistemas na FATEC.
 
 ---
 
